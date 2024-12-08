@@ -2,8 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/410b8839-15e2-482f-9771-4ba6225f5be0)
 
-![Uploading Screenshot 2567-12-08 at 19.16.35.png…]()
-
 **Deploy:** https://learn-next-js-three-blond.vercel.app/products
 
 ## Getting Started
