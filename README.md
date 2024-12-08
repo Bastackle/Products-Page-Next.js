@@ -1,4 +1,4 @@
-# Web Application Development with Next.js (Training)
+# Product Details Page - Web Application Development with Next.js (Training)
 
 ![NEXT JS](https://github.com/user-attachments/assets/8499e319-0fd0-4220-80db-77d573e613bd)
 
