@@ -1,6 +1,6 @@
 # Web Application Development with Next.js (Training)
 
-![image](https://github.com/user-attachments/assets/410b8839-15e2-482f-9771-4ba6225f5be0)
+![NEXT JS](https://github.com/user-attachments/assets/8499e319-0fd0-4220-80db-77d573e613bd)
 
 **Deploy:** https://learn-next-js-three-blond.vercel.app/products
 
