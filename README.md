@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Web Application Development with Next.js (Training)
+
+![Uploading Screenshot 2567-12-08 at 19.16.35.png…]()
+
+**Deploy:** https://learn-next-js-three-blond.vercel.app/products
 
 ## Getting Started
 
